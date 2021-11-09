@@ -109,7 +109,7 @@
   padding-left: 40px;
 }
 .modal-login .form-control:focus {
-  border-color: #00ce81;
+  border-color: #f0ad4e;
 }
 .modal-login .form-control, .modal-login .btn {
   min-height: 40px;
@@ -125,12 +125,12 @@
   right: -5px;
 }
 .modal-login .btn {
-  background: #00ce81;
+  background: #f0ad4e;
   border: none;
   line-height: normal;
 }
 .modal-login .btn:hover, .modal-login .btn:focus {
-  background: #00bf78;
+  background: #ec971f;
 }
 .modal-login .modal-footer {
   background: #ecf0f1;
@@ -234,6 +234,7 @@
     -webkit-transform: translateY(0%);
   }
 }
+
 
 
 
